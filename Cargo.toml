@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "crates/algorithm-core",
+    "crates/algorithm-math",
+    "crates/algorithm-symbolic",
+    "crates/algorithm-generator",
+    "crates/algorithm-language",
+    "crates/algorithm-api",
+    "crates/algorithm-cli",
+]
+resolver = "2"
