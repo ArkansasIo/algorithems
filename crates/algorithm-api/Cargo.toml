@@ -1,0 +1,12 @@
+[package]
+name = "algorithm-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+algorithm-core = { path = "../algorithm-core" }
+algorithm-generator = { path = "../algorithm-generator" }
+algorithm-graph = { path = "../algorithm-graph" }
+algorithm-math = { path = "../algorithm-math" }
+algorithm-symbolic = { path = "../algorithm-symbolic" }
+algorithm-language = { path = "../algorithm-language" }
